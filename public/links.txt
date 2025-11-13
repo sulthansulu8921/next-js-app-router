@@ -1,0 +1,2 @@
+Category : http://localhost:3000/categories/fashion/allensolly-t-shirt?color=red&size=1
+Search   : http://localhost:3000/search/abc/123/ooi/98/auu 
